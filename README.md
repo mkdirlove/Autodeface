@@ -34,6 +34,8 @@ Clone this project and Install the dependencies :
 > pkg update && pkg upgrade
 > pkg install python -y
 > pkg install python2 -y
+> pip install requests
+> pip2 install requests
 > git clone https://github.com/adimas999/Autodeface
 > cd Autodeface
 ```
@@ -46,3 +48,4 @@ run the script
 or
 > python 123.py
 ```
+**NOTE:** before using this tool, put your deface script with the 123.py file, edit the file 'target.txt' and enter the target url
