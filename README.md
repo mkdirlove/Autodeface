@@ -1,0 +1,2 @@
+# Autodeface
+Termux-auto-deface
